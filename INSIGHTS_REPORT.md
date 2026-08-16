@@ -1,6 +1,6 @@
 # Business Insights Report — E-Commerce Sales Analysis
 
-**Prepared by:** [Your Name]
+**Prepared by:** ARNAOV GARG
 **Dataset:** Olist Brazilian E-Commerce Dataset (Kaggle)
 **Period covered:** Sep 2016 – Aug 2018 (delivered orders)
 
