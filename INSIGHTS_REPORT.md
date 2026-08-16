@@ -49,6 +49,4 @@ biggest impact.
 ---
 
 ### Most surprising finding (3–5 lines)
-*[Write 3–5 lines in your own words on what stood out most to you while doing this analysis —
-for example, how concentrated revenue is in SP, or how sharp the November spike is compared to
-every other month. This section is graded on your own observation, so keep it personal and short.]*
+*The most surprising finding was how concentrated the revenue is — São Paulo alone generated almost 3x more revenue than the next best state, and the top 3 product categories out-earned dozens of smaller categories combined. I expected sales to be more evenly spread across regions and categories. The sharp spike in November 2017 also stood out — it's clearly tied to Black Friday, showing how much a single seasonal event can move the numbers compared to a normal month.*
