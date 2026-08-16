@@ -1,6 +1,6 @@
 # Business Insights Report — E-Commerce Sales Analysis
 
-**Prepared by:** ARNAOV GARG
+**Prepared by:** Arnaov Garg
 **Dataset:** Olist Brazilian E-Commerce Dataset (Kaggle)
 **Period covered:** Sep 2016 – Aug 2018 (delivered orders)
 
@@ -49,4 +49,4 @@ biggest impact.
 ---
 
 ### Most surprising finding (3–5 lines)
-*The most surprising finding was how concentrated the revenue is — São Paulo alone generated almost 3x more revenue than the next best state, and the top 3 product categories out-earned dozens of smaller categories combined. I expected sales to be more evenly spread across regions and categories. The sharp spike in November 2017 also stood out — it's clearly tied to Black Friday, showing how much a single seasonal event can move the numbers compared to a normal month.*
+The most surprising finding was how concentrated the revenue is — São Paulo alone generated almost 3x more revenue than the next best state, and the top 3 product categories out-earned dozens of smaller categories combined. I expected sales to be more evenly spread across regions and categories. The sharp spike in November 2017 also stood out — it's clearly tied to Black Friday, showing how much a single seasonal event can move the numbers compared to a normal month.
